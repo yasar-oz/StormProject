@@ -1,0 +1,35 @@
+{
+    "Customers":[
+        {
+            "fName":"James",
+            "zipCode":"23456"
+        },
+        {
+           "fName":"Alex",
+           "zipCode":"12321"
+       },
+       {
+           "fName":"Robert",
+           "zipCode":"32124"
+       },
+       {
+           "fName":"Maria",
+           "zipCode":"32431"
+       },
+       {
+           "fName":"Michael",
+           "zipCode":"22114"
+       }
+    ],
+    
+       "urlLink":["store",
+           "source=",
+           "marshalls",
+           "?cid=","?cid=",
+           "Marshalls",
+           "Marshalls",
+           "marshalls",
+           "marshalls"]
+    
+   }
+   
