@@ -4,6 +4,8 @@ var homePage = require("../Pages/Home.page.js");
 var base = require("../Utilities/Base.js");
 var browserHandles = [];
       
+
+
       
 describe('Marshalls Webpage - Main Page - Testing Suite', () => {
     var myArray = homePage.socialMedia;
